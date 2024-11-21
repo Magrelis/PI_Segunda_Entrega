@@ -203,4 +203,11 @@ Este protótipo descreve como o funcionário cadastra, edita ou exclui fornecedo
 
 ![cadastro_fornecedor](https://github.com/user-attachments/assets/8f7fffc5-75f4-47b0-9f08-e0026d5c62aa)
 
+---
+
+### Diagrama de Classe
+
+![diagrama_PTI drawio](https://github.com/user-attachments/assets/58688990-966f-4f50-bfdd-d2379f5fa138)
+
+
   
