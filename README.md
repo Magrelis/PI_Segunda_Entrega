@@ -36,7 +36,8 @@ O protótipo permite a inserção, validação e gerenciamento dos dados de uma 
 - **Erro no Cadastro:** Sistema exibe mensagens para correção.
 - **Cancelamento:** Nenhuma informação é salva.
 
-!Protoripo pessoa fisica
+![Pessoa Física](https://github.com/user-attachments/assets/a9eead32-578f-4760-b13f-94879bc55442)
+
 
 ![pessoa-fisica resized](https://github.com/user-attachments/assets/1f86a487-d9a1-47db-a836-a99fa5cb5784)
 
@@ -78,7 +79,8 @@ Este prototipo permite que o usuário insira, edite ou remova o cadastro de uma 
 - **Erro no Cadastro:** O sistema exibirá mensagens para correção.
 - **Cancelamento:** Nenhuma informação será salva.
 
- !prototipo pessoa juridica 
+![Pessoa Jurídica](https://github.com/user-attachments/assets/2c7cf9a1-2c2a-4b83-88e7-d3153498b389)
+
  
 ![pessoa_juridica](https://github.com/user-attachments/assets/aaa01a85-59a7-4485-a6a2-ed1156f3d2be)
 
@@ -119,7 +121,8 @@ O administrador insere e valida os dados de um professor no sistema, podendo cad
 - **Erro no Cadastro:** O sistema exibirá mensagens de erro caso haja problemas com os dados.
 - **Cancelamento:** Nenhum dado será armazenado se o cadastro for cancelado.
   
-!prototipo cadastro professor
+![Professores](https://github.com/user-attachments/assets/916469a7-da5a-46b8-8d8b-16deabb29e47)
+
 
 ![cadastro_professor](https://github.com/user-attachments/assets/9dfddc95-85db-49cf-ae42-5a0cc6171157)
 
@@ -157,7 +160,8 @@ O administrador insere os dados de um aluno no sistema, que valida e armazena es
 - **Cadastro Bem-sucedido:** O aluno será salvo com sucesso.
 - **Erro no Cadastro:** O sistema registrará o erro para correção.
 
-!prototipo cadastro aluno
+![Alunos](https://github.com/user-attachments/assets/02a771fc-ff66-4dd1-823e-dd4ec16d520d)
+
 
 ![cadastro_aluno](https://github.com/user-attachments/assets/c15ce95c-7d6d-408a-adf1-93e46989e189)
 
@@ -199,7 +203,8 @@ Este protótipo descreve como o funcionário cadastra, edita ou exclui fornecedo
 - **Cancelamento:** Nenhum dado será armazenado se o cadastro for cancelado.
 
 
-!prototipo fornecedor
+![Fornecedores](https://github.com/user-attachments/assets/e4188938-a5b4-42dc-b845-80f12ccc85a0)
+
 
 ![cadastro_fornecedor](https://github.com/user-attachments/assets/8f7fffc5-75f4-47b0-9f08-e0026d5c62aa)
 
